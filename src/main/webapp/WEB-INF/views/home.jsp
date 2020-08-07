@@ -23,6 +23,7 @@
 				 		<a href="/signout.do" class="btn btn-outline-primary">로그아웃</a>
 				 	</c:otherwise>
 				 </c:choose>
+				<a href="/json/home.do" class="btn btn-outline-primary">AJAX</a>
 				<a href="/board/list.do" class="btn btn-outline-primary">자유게시판</a>
 				<a href="/product/list.do" class="btn btn-outline-primary">쇼핑하기</a>
 			</div>
